@@ -15,7 +15,7 @@
 8. git commit -asm "提交的文件备注" 
 9. git push -u origin master 
 
-####SSH  公钥
+#### SSH  公钥
 1. cd ~/.ssh
 2. ssh-keygen -t rsa -C "915314265@qq.com"
 3. cat id_rsa.pub
