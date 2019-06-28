@@ -20,3 +20,7 @@
 2. ssh-keygen -t rsa -C "915314265@qq.com"
 3. cat id_rsa.pub
 
+#### 分支
+1. git checkout -b branch1
+2. git branch
+3. git push -u origin branch1
