@@ -24,3 +24,5 @@
 1. git checkout -b branch1
 2. git branch
 3. git push -u origin branch1
+
+curl -s https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.rpm.sh | sudo bash
